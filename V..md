@@ -1,0 +1,1 @@
+Autor der [[Märchen des Tricksters]]
