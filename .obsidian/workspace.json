@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2baa4f53e9347b0",
+        "id": "6344de69c6e41cac",
         "type": "tabs",
         "children": [
           {
-            "id": "c1d346cdbfc7e103",
+            "id": "10958e7ea6db6e35",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "testing git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "testing git"
             }
           }
         ]
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from testing git"
             }
           },
           {
@@ -170,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1d346cdbfc7e103",
+  "active": "5feb07b51f62641c",
   "lastOpenFiles": [
+    "testing git.md",
     "Session 0.md",
     "Session 1.md",
     "Party.md",
